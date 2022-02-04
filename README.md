@@ -2,7 +2,7 @@
 
 - 🔭 Sou desenvolvedor Back-end
 - 🌱 Estudando C#/Python
-- ⚡ Fun fact: Adoro ler, compor músicar e tocar instrumentos
+- ⚡ Fun fact: Adoro ler, compor músicas e inovar
 
 
 
